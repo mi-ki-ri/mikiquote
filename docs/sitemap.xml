@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mi-ki-ri.github.io/mikiquote/test/test/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://mi-ki-ri.github.io/mikiquote/categories/</loc>
   </url>
   
@@ -17,6 +12,10 @@
   
   <url>
     <loc>https://mi-ki-ri.github.io/mikiquote/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mi-ki-ri.github.io/mikiquote/test/test/</loc>
   </url>
   
   <url>

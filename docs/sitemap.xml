@@ -3,23 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mi-ki-ri.github.io/mikiquote/categories/</loc>
-  </url>
-  
-  <url>
     <loc>https://mi-ki-ri.github.io/mikiquote/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mi-ki-ri.github.io/mikiquote/quotes/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mi-ki-ri.github.io/mikiquote/tags/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mi-ki-ri.github.io/mikiquote/quotes/nandemowa/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mi-ki-ri.github.io/mikiquote/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mi-ki-ri.github.io/mikiquote/tags/</loc>
   </url>
   
 </urlset>
